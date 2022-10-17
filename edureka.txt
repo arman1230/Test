@@ -1,1 +1,3 @@
 I'm demonstrating a diff command that how it works
+Inserting a new line
+Adding a new line

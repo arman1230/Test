@@ -1,0 +1,2 @@
+Adding some text inside edureka1.txt
+Inserting new line into some
